@@ -43,3 +43,11 @@ print(pessoa.get("idade"))
 
 # Adicionando novo par chave-valor
 pessoa["cidade"] = "São Paulo"
+
+# Variáveis booleanas
+tem_cafe = True
+tem_cha = False
+
+# Expressões booleanas
+tem_bebida_quente = tem_cafe or tem_cha
+tem_as_dois = tem_cafe and tem_cha
