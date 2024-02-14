@@ -66,3 +66,10 @@ elif idade < 18:
     print("Toddynho")
 elif idade > 65:
     print("Dinossauro")
+
+
+numeros = [1, 3, 6, 9, 12, 15]
+
+for numero in numeros:
+    if numero % 3 == 0 and numero % 2 != 0:
+        print(f"{numero} é múltiplo de 3")
