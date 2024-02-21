@@ -1,34 +1,24 @@
-import random
+# Exercício 1 - Manipulação de Listas
+# numeros = [5, 3, 4, 7, 9]
+# numeros[0] = 3
+# numeros[1] = 4
+# numeros[2] = 5
+# numeros[3] = 7
+# numeros[4] = 9
+# print(numeros)
+# numeros.append(10)
+# print(numeros)
+# numeros.remove(5)
+# print(numeros)
 
-# Exercicio 1
-numeros = []
-for i in range(5):
-    numero = random.randint(1, 100)
-    numeros.append(numero)
 
-print("Os números gerados são:")
-for numero in numeros:
-    print(numero)
-
-# Exercício 2
-numeros = []
-for i in range(10):
-    numero = random.randint(1, 100)
-    numeros.append(numero)
-
-print(f"Os números gerados são: {numeros}")
-
-for numero in reversed(numeros):
-    print(f"Ordem inversa: {numero}")
-
-# Exercício 3 - NÃO FINALIZADO
-notas = []
-for i in range(4):
-    nota = random.randint(0, 10)
-    notas.append(nota)
-
-print(f"Notas: {notas}")
-
-for nota in notas:
-    media = (nota + nota + nota + nota) / 4
-    print(media)
+# Exercício 2 - slicing e operações
+numeros = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+sublista = numeros[1:2], numeros[3:4], numeros[5:6], numeros[7:8], numeros[9:10]
+# print(sublista)
+sublista[0] = 10
+sublista[1] = 8
+sublista[2] = 6
+sublista[3] = 4
+sublista[4] = 2
+print(sublista)
