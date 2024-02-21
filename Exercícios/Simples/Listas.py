@@ -1,15 +1,11 @@
 # Exercício 1 - Manipulação de Listas
-# numeros = [5, 3, 4, 7, 9]
-# numeros[0] = 3
-# numeros[1] = 4
-# numeros[2] = 5
-# numeros[3] = 7
-# numeros[4] = 9
-# print(numeros)
-# numeros.append(10)
-# print(numeros)
-# numeros.remove(5)
-# print(numeros)
+numeros = [5, 3, 4, 7, 9]
+numeros.sort()
+print(numeros)
+numeros.append(10)
+print(numeros)
+numeros.remove(5)
+print(numeros)
 
 
 # Exercício 2 - slicing e operações
