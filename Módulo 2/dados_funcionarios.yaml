@@ -1,0 +1,94 @@
+funcionarios:
+  - Nome: Ana
+    Idade: 25
+    Salario: 3500
+  - Nome: João
+    Idade: 30
+    Salario: 4000
+  - Nome: Maria
+    Idade: 28
+    Salario: 3200
+  - Nome: Pedro
+    Idade: 35
+    Salario: 4500
+  - Nome: Carlos
+    Idade: 32
+    Salario: 3800
+  - Nome: Sofia
+    Idade: 27
+    Salario: 3700
+  - Nome: Rafael
+    Idade: 29
+    Salario: 3900
+  - Nome: Camila
+    Idade: 26
+    Salario: 3600
+  - Nome: Bruno
+    Idade: 33
+    Salario: 4100
+  - Nome: Juliana
+    Idade: 31
+    Salario: 4200
+  - Nome: Lucas
+    Idade: 34
+    Salario: 4300
+  - Nome: Luana
+    Idade: 24
+    Salario: 3400
+  - Nome: Gabriel
+    Idade: 36
+    Salario: 4600
+  - Nome: Fernanda
+    Idade: 25
+    Salario: 3300
+  - Nome: Thiago
+    Idade: 29
+    Salario: 3950
+  - Nome: Mariana
+    Idade: 27
+    Salario: 3450
+  - Nome: André
+    Idade: 30
+    Salario: 4050
+  - Nome: Renata
+    Idade: 31
+    Salario: 4150
+  - Nome: Gustavo
+    Idade: 28
+    Salario: 3250
+  - Nome: Laura
+    Idade: 26
+    Salario: 3650
+  - Nome: Marcos
+    Idade: 32
+    Salario: 3550
+  - Nome: Larissa
+    Idade: 33
+    Salario: 4250
+  - Nome: Vinicius
+    Idade: 34
+    Salario: 4350
+  - Nome: Paula
+    Idade: 29
+    Salario: 3850
+  - Nome: Rafaela
+    Idade: 27
+    Salario: 3350
+  - Nome: Diego
+    Idade: 31
+    Salario: 3950
+  - Nome: Carolina
+    Idade: 30
+    Salario: 4050
+  - Nome: Marcelo
+    Idade: 35
+    Salario: 4150
+  - Nome: Letícia
+    Idade: 28
+    Salario: 3250
+  - Nome: Daniel
+    Idade: 26
+    Salario: 3650
+  - Nome: Bruna
+    Idade: 32
+    Salario: 3550
