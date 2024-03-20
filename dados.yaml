@@ -1,0 +1,124 @@
+alunos:
+  - nome: João
+  - nome: Maria
+  - nome: Pedro
+  - nome: Ana
+  - nome: Carla
+  - nome: Luiz
+  - nome: Mariana
+  - nome: Rafael
+  - nome: Patrícia
+  - nome: Gustavo
+  - nome: Fernanda
+  - nome: Lucas
+  - nome: Amanda
+  - nome: Rodrigo
+  - nome: Camila
+  - nome: Daniel
+  - nome: Isabela
+  - nome: Thiago
+  - nome: Natália
+  - nome: Juliano
+  - nome: Vanessa
+  - nome: Eduardo
+  - nome: Tatiane
+  - nome: Felipe
+  - nome: Cristina
+  - nome: Marcelo
+  - nome: Larissa
+  - nome: Roberto
+  - nome: Bianca
+  - nome: Fabrício
+altura:
+  - 1.65
+  - 1.75
+  - 1.7
+  - 1.8
+  - 1.68
+  - 1.65
+  - 1.8
+  - 1.7
+  - 1.68
+  - 1.75
+  - 1.65
+  - 1.7
+  - 1.68
+  - 1.75
+  - 1.65
+  - 1.7
+  - 1.8
+  - 1.68
+  - 1.75
+  - 1.65
+  - 1.7
+  - 1.8
+  - 1.68
+  - 1.75
+  - 1.65
+  - 1.7
+  - 1.8
+  - 1.68
+  - 1.75
+  - 1.65
+idade:
+  - 22
+  - 20
+  - 21
+  - 19
+  - 20
+  - 20
+  - 22
+  - 21
+  - 19
+  - 20
+  - 20
+  - 22
+  - 21
+  - 19
+  - 20
+  - 20
+  - 22
+  - 21
+  - 19
+  - 20
+  - 20
+  - 22
+  - 21
+  - 19
+  - 20
+  - 20
+  - 22
+  - 21
+  - 19
+  - 20
+notas:
+  - 8
+  - 7
+  - 9
+  - 6
+  - 8
+  - 8
+  - 7
+  - 9
+  - 6
+  - 8
+  - 8
+  - 7
+  - 9
+  - 6
+  - 8
+  - 8
+  - 7
+  - 9
+  - 6
+  - 8
+  - 8
+  - 7
+  - 9
+  - 6
+  - 8
+  - 8
+  - 7
+  - 9
+  - 6
+  - 8
