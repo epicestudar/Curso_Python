@@ -1,0 +1,94 @@
+{
+  "lojas": [
+    {
+      "id": 1,
+      "dados_mensais": [
+        {"mes": 1, "faturamento": {"higiene_e_saude": 15200, "limpeza": 19800, "bebidas": 8600, "carne_e_laticinios": 4900, "alimentacao": 5300}, "gastos_funcionarios": 20000, "despesas_fornecedores": 15000, "gastos_diversos": 5000},
+        {"mes": 2, "faturamento": {"higiene_e_saude": 14900, "limpeza": 19500, "bebidas": 8700, "carne_e_laticinios": 4800, "alimentacao": 5400}, "gastos_funcionarios": 21000, "despesas_fornecedores": 16000, "gastos_diversos": 5100},
+        {"mes": 3, "faturamento": {"higiene_e_saude": 14600, "limpeza": 20000, "bebidas": 8800, "carne_e_laticinios": 4900, "alimentacao": 5500}, "gastos_funcionarios": 22000, "despesas_fornecedores": 17000, "gastos_diversos": 5200},
+        {"mes": 4, "faturamento": {"higiene_e_saude": 15300, "limpeza": 19600, "bebidas": 8500, "carne_e_laticinios": 5000, "alimentacao": 5300}, "gastos_funcionarios": 23000, "despesas_fornecedores": 18000, "gastos_diversos": 5300},
+        {"mes": 5, "faturamento": {"higiene_e_saude": 15000, "limpeza": 19900, "bebidas": 8600, "carne_e_laticinios": 4900, "alimentacao": 5400}, "gastos_funcionarios": 24000, "despesas_fornecedores": 19000, "gastos_diversos": 5400},
+        {"mes": 6, "faturamento": {"higiene_e_saude": 14700, "limpeza": 19500, "bebidas": 8700, "carne_e_laticinios": 4800, "alimentacao": 5500}, "gastos_funcionarios": 25000, "despesas_fornecedores": 20000, "gastos_diversos": 5500},
+        {"mes": 7, "faturamento": {"higiene_e_saude": 15400, "limpeza": 19800, "bebidas": 8800, "carne_e_laticinios": 4900, "alimentacao": 5300}, "gastos_funcionarios": 26000, "despesas_fornecedores": 21000, "gastos_diversos": 5600},
+        {"mes": 8, "faturamento": {"higiene_e_saude": 15100, "limpeza": 19500, "bebidas": 8500, "carne_e_laticinios": 5000, "alimentacao": 5400}, "gastos_funcionarios": 27000, "despesas_fornecedores": 22000, "gastos_diversos": 5700},
+        {"mes": 9, "faturamento": {"higiene_e_saude": 14800, "limpeza": 20000, "bebidas": 8600, "carne_e_laticinios": 4900, "alimentacao": 5500}, "gastos_funcionarios": 28000, "despesas_fornecedores": 23000, "gastos_diversos": 5800},
+        {"mes": 10, "faturamento": {"higiene_e_saude": 15500, "limpeza": 19600, "bebidas": 8700, "carne_e_laticinios": 5000, "alimentacao": 5300}, "gastos_funcionarios": 29000, "despesas_fornecedores": 24000, "gastos_diversos": 5900},
+        {"mes": 11, "faturamento": {"higiene_e_saude": 15200, "limpeza": 19900, "bebidas": 8800, "carne_e_laticinios": 4900, "alimentacao": 5400}, "gastos_funcionarios": 30000, "despesas_fornecedores": 25000, "gastos_diversos": 6000},
+        {"mes": 12, "faturamento": {"higiene_e_saude": 14900, "limpeza": 19500, "bebidas": 8500, "carne_e_laticinios": 5000, "alimentacao": 5500}, "gastos_funcionarios": 31000, "despesas_fornecedores": 26000, "gastos_diversos": 6100}
+      ]
+    }
+    ,
+    {
+      "id": 2,
+      "dados_mensais": [
+        {"mes": 1, "faturamento": {"higiene_e_saude": 14800, "limpeza": 19700, "bebidas": 8500, "carne_e_laticinios": 4900, "alimentacao": 5300}, "gastos_funcionarios": 18000, "despesas_fornecedores": 14000, "gastos_diversos": 6000},
+        {"mes": 2, "faturamento": {"higiene_e_saude": 14500, "limpeza": 20000, "bebidas": 8400, "carne_e_laticinios": 4800, "alimentacao": 5500}, "gastos_funcionarios": 19000, "despesas_fornecedores": 15000, "gastos_diversos": 6100},
+        {"mes": 3, "faturamento": {"higiene_e_saude": 15200, "limpeza": 19400, "bebidas": 8600, "carne_e_laticinios": 4900, "alimentacao": 5200}, "gastos_funcionarios": 20000, "despesas_fornecedores": 16000, "gastos_diversos": 6200},
+        {"mes": 4, "faturamento": {"higiene_e_saude": 14900, "limpeza": 19900, "bebidas": 8700, "carne_e_laticinios": 5000, "alimentacao": 5400}, "gastos_funcionarios": 21000, "despesas_fornecedores": 17000, "gastos_diversos": 6300},
+        {"mes": 5, "faturamento": {"higiene_e_saude": 14600, "limpeza": 19500, "bebidas": 8800, "carne_e_laticinios": 4800, "alimentacao": 5300}, "gastos_funcionarios": 22000, "despesas_fornecedores": 18000, "gastos_diversos": 6400},
+        {"mes": 6, "faturamento": {"higiene_e_saude": 15300, "limpeza": 19800, "bebidas": 8900, "carne_e_laticinios": 4900, "alimentacao": 5500}, "gastos_funcionarios": 23000, "despesas_fornecedores": 19000, "gastos_diversos": 6500},
+        {"mes": 7, "faturamento": {"higiene_e_saude": 15000, "limpeza": 19300, "bebidas": 8500, "carne_e_laticinios": 5000, "alimentacao": 5200}, "gastos_funcionarios": 24000, "despesas_fornecedores": 20000, "gastos_diversos": 6600},
+        {"mes": 8, "faturamento": {"higiene_e_saude": 14700, "limpeza": 20000, "bebidas": 8600, "carne_e_laticinios": 4900, "alimentacao": 5300}, "gastos_funcionarios": 25000, "despesas_fornecedores": 21000, "gastos_diversos": 6700},
+        {"mes": 9, "faturamento": {"higiene_e_saude": 15400, "limpeza": 19600, "bebidas": 8700, "carne_e_laticinios": 5000, "alimentacao": 5400}, "gastos_funcionarios": 26000, "despesas_fornecedores": 22000, "gastos_diversos": 6800},
+        {"mes": 10, "faturamento": {"higiene_e_saude": 15100, "limpeza": 19900, "bebidas": 8800, "carne_e_laticinios": 4800, "alimentacao": 5500}, "gastos_funcionarios": 27000, "despesas_fornecedores": 23000, "gastos_diversos": 6900},
+        {"mes": 11, "faturamento": {"higiene_e_saude": 14800, "limpeza": 19400, "bebidas": 8900, "carne_e_laticinios": 4900, "alimentacao": 5200}, "gastos_funcionarios": 28000, "despesas_fornecedores": 24000, "gastos_diversos": 7000},
+        {"mes": 12, "faturamento": {"higiene_e_saude": 15500, "limpeza": 19800, "bebidas": 8500, "carne_e_laticinios": 5000, "alimentacao": 5300}, "gastos_funcionarios": 29000, "despesas_fornecedores": 25000, "gastos_diversos": 7100}
+      ]
+    }
+    ,
+    {
+      "id": 3,
+      "dados_mensais": [
+        {"mes": 1, "faturamento": {"higiene_e_saude": 15300, "limpeza": 19200, "bebidas": 8600, "carne_e_laticinios": 4800, "alimentacao": 5200}, "gastos_funcionarios": 25000, "despesas_fornecedores": 18000, "gastos_diversos": 7000},
+        {"mes": 2, "faturamento": {"higiene_e_saude": 14800, "limpeza": 19700, "bebidas": 8500, "carne_e_laticinios": 4900, "alimentacao": 5300}, "gastos_funcionarios": 26000, "despesas_fornecedores": 19000, "gastos_diversos": 7500},
+        {"mes": 3, "faturamento": {"higiene_e_saude": 15500, "limpeza": 19000, "bebidas": 8700, "carne_e_laticinios": 5000, "alimentacao": 5100}, "gastos_funcionarios": 27000, "despesas_fornecedores": 20000, "gastos_diversos": 8000},
+        {"mes": 4, "faturamento": {"higiene_e_saude": 14700, "limpeza": 19500, "bebidas": 8400, "carne_e_laticinios": 4800, "alimentacao": 5400}, "gastos_funcionarios": 28000, "despesas_fornecedores": 21000, "gastos_diversos": 8500},
+        {"mes": 5, "faturamento": {"higiene_e_saude": 15200, "limpeza": 19300, "bebidas": 8600, "carne_e_laticinios": 4900, "alimentacao": 5200}, "gastos_funcionarios": 29000, "despesas_fornecedores": 22000, "gastos_diversos": 9000},
+        {"mes": 6, "faturamento": {"higiene_e_saude": 14500, "limpeza": 19800, "bebidas": 8700, "carne_e_laticinios": 5000, "alimentacao": 5300}, "gastos_funcionarios": 30000, "despesas_fornecedores": 23000, "gastos_diversos": 9500},
+        {"mes": 7, "faturamento": {"higiene_e_saude": 15000, "limpeza": 19400, "bebidas": 8500, "carne_e_laticinios": 4900, "alimentacao": 5500}, "gastos_funcionarios": 31000, "despesas_fornecedores": 24000, "gastos_diversos": 10000},
+        {"mes": 8, "faturamento": {"higiene_e_saude": 15400, "limpeza": 19100, "bebidas": 8800, "carne_e_laticinios": 4800, "alimentacao": 5100}, "gastos_funcionarios": 32000, "despesas_fornecedores": 25000, "gastos_diversos": 10500},
+        {"mes": 9, "faturamento": {"higiene_e_saude": 14600, "limpeza": 19600, "bebidas": 8600, "carne_e_laticinios": 4900, "alimentacao": 5300}, "gastos_funcionarios": 33000, "despesas_fornecedores": 26000, "gastos_diversos": 11000},
+        {"mes": 10, "faturamento": {"higiene_e_saude": 15100, "limpeza": 19200, "bebidas": 8700, "carne_e_laticinios": 5000, "alimentacao": 5200}, "gastos_funcionarios": 34000, "despesas_fornecedores": 27000, "gastos_diversos": 11500},
+        {"mes": 11, "faturamento": {"higiene_e_saude": 14400, "limpeza": 19700, "bebidas": 8500, "carne_e_laticinios": 4900, "alimentacao": 5400}, "gastos_funcionarios": 35000, "despesas_fornecedores": 28000, "gastos_diversos": 12000},
+        {"mes": 12, "faturamento": {"higiene_e_saude": 14900, "limpeza": 19400, "bebidas": 8800, "carne_e_laticinios": 4800, "alimentacao": 5100}, "gastos_funcionarios": 36000, "despesas_fornecedores": 29000, "gastos_diversos": 12500}
+      ]
+    }
+    ,
+    {
+      "id": 4,
+      "dados_mensais": [
+        {"mes": 1, "faturamento": {"higiene_e_saude": 14500, "limpeza": 20000, "bebidas": 8500, "carne_e_laticinios": 4900, "alimentacao": 5200}, "gastos_funcionarios": 23000, "despesas_fornecedores": 17000, "gastos_diversos": 6000},
+        {"mes": 2, "faturamento": {"higiene_e_saude": 14000, "limpeza": 20500, "bebidas": 8200, "carne_e_laticinios": 4800, "alimentacao": 5300}, "gastos_funcionarios": 24000, "despesas_fornecedores": 18000, "gastos_diversos": 7000},
+        {"mes": 3, "faturamento": {"higiene_e_saude": 15000, "limpeza": 19500, "bebidas": 8300, "carne_e_laticinios": 5000, "alimentacao": 5000}, "gastos_funcionarios": 25000, "despesas_fornecedores": 19000, "gastos_diversos": 7500},
+        {"mes": 4, "faturamento": {"higiene_e_saude": 13700, "limpeza": 21000, "bebidas": 8400, "carne_e_laticinios": 4800, "alimentacao": 5100}, "gastos_funcionarios": 26000, "despesas_fornecedores": 20000, "gastos_diversos": 8000},
+        {"mes": 5, "faturamento": {"higiene_e_saude": 14800, "limpeza": 19500, "bebidas": 8100, "carne_e_laticinios": 4900, "alimentacao": 5400}, "gastos_funcionarios": 27000, "despesas_fornecedores": 21000, "gastos_diversos": 8500},
+        {"mes": 6, "faturamento": {"higiene_e_saude": 14200, "limpeza": 20000, "bebidas": 8300, "carne_e_laticinios": 5000, "alimentacao": 5200}, "gastos_funcionarios": 28000, "despesas_fornecedores": 22000, "gastos_diversos": 9000},
+        {"mes": 7, "faturamento": {"higiene_e_saude": 14700, "limpeza": 19800, "bebidas": 8400, "carne_e_laticinios": 4800, "alimentacao": 5300}, "gastos_funcionarios": 29000, "despesas_fornecedores": 23000, "gastos_diversos": 9500},
+        {"mes": 8, "faturamento": {"higiene_e_saude": 13900, "limpeza": 20300, "bebidas": 8200, "carne_e_laticinios": 4900, "alimentacao": 5100}, "gastos_funcionarios": 30000, "despesas_fornecedores": 24000, "gastos_diversos": 10000},
+        {"mes": 9, "faturamento": {"higiene_e_saude": 14600, "limpeza": 19700, "bebidas": 8300, "carne_e_laticinios": 4800, "alimentacao": 5400}, "gastos_funcionarios": 31000, "despesas_fornecedores": 25000, "gastos_diversos": 10500},
+        {"mes": 10, "faturamento": {"higiene_e_saude": 14300, "limpeza": 20200, "bebidas": 8500, "carne_e_laticinios": 5000, "alimentacao": 5200}, "gastos_funcionarios": 32000, "despesas_fornecedores": 26000, "gastos_diversos": 11000},
+        {"mes": 11, "faturamento": {"higiene_e_saude": 15100, "limpeza": 19400, "bebidas": 8200, "carne_e_laticinios": 4900, "alimentacao": 5300}, "gastos_funcionarios": 33000, "despesas_fornecedores": 27000, "gastos_diversos": 11500},
+        {"mes": 12, "faturamento": {"higiene_e_saude": 13800, "limpeza": 20100, "bebidas": 8400, "carne_e_laticinios": 4800, "alimentacao": 5100}, "gastos_funcionarios": 34000, "despesas_fornecedores": 28000, "gastos_diversos": 12000}
+      ]
+    }
+    ,
+    {
+      "id": 5,
+      "dados_mensais": [
+        {"mes": 1, "faturamento": {"higiene_e_saude": 12000, "limpeza": 19000, "bebidas": 8000, "carne_e_laticinios": 4700, "alimentacao": 4500}, "gastos_funcionarios": 21000, "despesas_fornecedores": 16000, "gastos_diversos": 5000},
+        {"mes": 2, "faturamento": {"higiene_e_saude": 13000, "limpeza": 18000, "bebidas": 8500, "carne_e_laticinios": 4800, "alimentacao": 5000}, "gastos_funcionarios": 22000, "despesas_fornecedores": 17000, "gastos_diversos": 5500},
+        {"mes": 3, "faturamento": {"higiene_e_saude": 14000, "limpeza": 20000, "bebidas": 9000, "carne_e_laticinios": 5000, "alimentacao": 5500}, "gastos_funcionarios": 23000, "despesas_fornecedores": 18000, "gastos_diversos": 6000},
+        {"mes": 4, "faturamento": {"higiene_e_saude": 13500, "limpeza": 19500, "bebidas": 8200, "carne_e_laticinios": 4600, "alimentacao": 5200}, "gastos_funcionarios": 24000, "despesas_fornecedores": 19000, "gastos_diversos": 6500},
+        {"mes": 5, "faturamento": {"higiene_e_saude": 12500, "limpeza": 20500, "bebidas": 7800, "carne_e_laticinios": 4900, "alimentacao": 5300}, "gastos_funcionarios": 25000, "despesas_fornecedores": 20000, "gastos_diversos": 7000},
+        {"mes": 6, "faturamento": {"higiene_e_saude": 14500, "limpeza": 18500, "bebidas": 8500, "carne_e_laticinios": 4800, "alimentacao": 5400}, "gastos_funcionarios": 26000, "despesas_fornecedores": 21000, "gastos_diversos": 7500},
+        {"mes": 7, "faturamento": {"higiene_e_saude": 13300, "limpeza": 19200, "bebidas": 8300, "carne_e_laticinios": 4700, "alimentacao": 5700}, "gastos_funcionarios": 27000, "despesas_fornecedores": 22000, "gastos_diversos": 8000},
+        {"mes": 8, "faturamento": {"higiene_e_saude": 14200, "limpeza": 19800, "bebidas": 8200, "carne_e_laticinios": 4900, "alimentacao": 5100}, "gastos_funcionarios": 28000, "despesas_fornecedores": 23000, "gastos_diversos": 8500},
+        {"mes": 9, "faturamento": {"higiene_e_saude": 13800, "limpeza": 19100, "bebidas": 8000, "carne_e_laticinios": 4800, "alimentacao": 5200}, "gastos_funcionarios": 29000, "despesas_fornecedores": 24000, "gastos_diversos": 9000},
+        {"mes": 10, "faturamento": {"higiene_e_saude": 12700, "limpeza": 20300, "bebidas": 7900, "carne_e_laticinios": 4700, "alimentacao": 5300}, "gastos_funcionarios": 30000, "despesas_fornecedores": 25000, "gastos_diversos": 9500},
+        {"mes": 11, "faturamento": {"higiene_e_saude": 14900, "limpeza": 19200, "bebidas": 8400, "carne_e_laticinios": 5000, "alimentacao": 5500}, "gastos_funcionarios": 31000, "despesas_fornecedores": 26000, "gastos_diversos": 10000},
+        {"mes": 12, "faturamento": {"higiene_e_saude": 13600, "limpeza": 19900, "bebidas": 8100, "carne_e_laticinios": 4900, "alimentacao": 5100}, "gastos_funcionarios": 32000, "despesas_fornecedores": 27000, "gastos_diversos": 10500}
+      ]
+    }
+    
+  ]
+}
